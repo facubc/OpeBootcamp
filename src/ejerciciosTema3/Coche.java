@@ -1,3 +1,5 @@
+package ejerciciosTema3;
+
 public class Coche {
 
   private int cantidadPuertas;
